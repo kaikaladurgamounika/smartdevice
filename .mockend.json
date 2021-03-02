@@ -1,4 +1,10 @@
 {
+    "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
+  },
   "get_list_devices":{
     "devices": "devices[]"
   },
