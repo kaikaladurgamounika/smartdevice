@@ -9,9 +9,16 @@
       "device": "Device[]"
   },
   "Device" : {
-    "name": "string",
+    "device": "string",
+    "pattern": "string",
     "start_time": "date",
     "end_time" : "date",
-    "status"   :  "string"
+    "pattern_status" : "string"
    }
+  "Cancelpattern" : {
+    "pattern": "string",
+    "device": "string",
+    "pattern_status": "string",
+    "start_time": "date",
+    "end_time": "date"
 }
