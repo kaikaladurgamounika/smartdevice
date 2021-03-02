@@ -15,11 +15,11 @@
     "end_time" : "date",
     "pattern_status" : "string"
    }
-  "Cancelpattern" : {
+  "Cancelpattern": {
     "pattern": "string",
     "device": "string",
     "pattern_status": "string",
     "start_time": "date",
     "end_time": "date"
-},
+   },
 }
