@@ -14,7 +14,7 @@
     "start_time": "date",
     "end_time" : "date",
     "pattern_status" : "string"
-   }
+   },
   "Cancelpattern": {
     "pattern": "string",
     "device": "string",
