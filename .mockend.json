@@ -1,8 +1,8 @@
 {
   "get_list_devices":{
     "devices": "devices[]"
-  }
-  "devices":{
+  },
+  "devices" : {
     "name": "string",
     "start_time": "string",
     "end_time" : "string",
