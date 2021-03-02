@@ -5,6 +5,9 @@
     "published": "boolean",
     "createdAt": "date"
   },
+  "Mydevice":{
+      "device": "Device[]"
+  },
   "Device" : {
     "name": "string",
     "start_time": "string",
