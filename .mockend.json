@@ -5,10 +5,7 @@
     "published": "boolean",
     "createdAt": "date"
   },
-  "Mydevice":{
-    "devices": "devices[]"
-  },
-  "devices" : {
+  "Device" : {
     "name": "string",
     "start_time": "string",
     "end_time" : "string",
